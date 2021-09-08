@@ -2,7 +2,6 @@ package generics;
 
 public class TestMaximum {
 
-		
 		private static Integer a,b,c;
 		TestMaximum(Integer a,Integer b,Integer c){
 			this.a = a;
